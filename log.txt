@@ -1,0 +1,17 @@
+__movie-this__
+Title: The Goonies
+Year: 1985
+imdbRating: 7.8
+Country: USA
+Language: English, Spanish, Cantonese, Italian
+Plot: In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.
+Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+Website: N/A
+
+__spotify-this-song__
+Artist: Kendrick Lamar
+Song Title: LOVE. FEAT. ZACARI.
+Album: DAMN.
+Link: null
+
+__do-what-it-says__
