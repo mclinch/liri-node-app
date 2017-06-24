@@ -43,7 +43,7 @@ var commands = (function(){
             consumer_key: keys.twitter.consumer_key,
             consumer_secret: keys.twitter.consumer_secret,
             access_token_key: keys.twitter.access_token_key,
-            access_token_secret:  keys.twitter.access_token_secret
+            access_token_secret: keys.twitter.access_token_secret
         });
 
         client.get('/statuses/user_timeline.json', { count: 20 }, function(err, tweets, response) {
@@ -62,7 +62,7 @@ var commands = (function(){
     };
 
     var getSong = function (option) {
-        var song = option || 'Jungle Love';
+        var song = option || 'Migration';
         var Spotify = require('node-spotify-api');
         var client = new Spotify({
           id: keys.spotify.clientID,
@@ -86,7 +86,7 @@ var commands = (function(){
 
     var getMovie = function (option) {
         var request = require('request');
-        var movie = option || 'Mr. Nobody';
+        var movie = option || 'Goonies';
         var movieAtt = ['Title', 'Year', 'imdbRating', 'Country', 'Language', 'Plot', 'Actors', 'Website'];
         request({
             method: 'GET',

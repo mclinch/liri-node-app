@@ -15,3 +15,26 @@ Album: DAMN.
 Link: null
 
 __do-what-it-says__
+__do-what-it-says__
+__movie-this__
+Title: The Goonies
+Year: 1985
+imdbRating: 7.8
+Country: USA
+Language: English, Spanish, Cantonese, Italian
+Plot: In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.
+Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+Website: N/A
+
+__spotify-this-song__
+Artist: The Script
+Song Title: Hall of Fame
+Album: #3
+Link: https://p.scdn.co/mp3-preview/87ee8d6680a271e44e1130dbdf9901c4ccd47002?cid=8ba0046c00d34e45b50e663a69ade976
+
+__spotify-this-song__
+Artist: Bonobo
+Song Title: Migration
+Album: Migration
+Link: https://p.scdn.co/mp3-preview/95a2402c98352929a0c8719a175d4aab563f9f31?cid=8ba0046c00d34e45b50e663a69ade976
+
